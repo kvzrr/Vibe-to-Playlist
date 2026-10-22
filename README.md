@@ -37,7 +37,7 @@ graph LR
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/<username>/Vibe-to-Playlist.git
+git clone https://github.com/kvzrr/Vibe-to-Playlist.git
 cd Vibe-to-Playlist
 python -m venv .venv
 .venv\Scripts\activate        # Windows
